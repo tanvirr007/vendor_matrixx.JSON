@@ -209,6 +209,12 @@
       "vendor": "Xiaomi",
       "model": "POCO F7 Pro",
       "active": true
+    },
+    {
+      "codename": "stone",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 12 5G / POCO X5 5G",
+      "active": true
     }
   ]
 }

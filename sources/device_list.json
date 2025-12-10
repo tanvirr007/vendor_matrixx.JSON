@@ -275,6 +275,12 @@
       "vendor": "Google",
       "model": "Pixel 9",
       "active": true
+    },
+    {
+    "codename": "dodge",
+    "vendor": "Oneplus",
+    "model": "13",
+    "active": true
     }
   ]
 }
